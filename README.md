@@ -1,7 +1,7 @@
-# Exp - 4 HOSPITAL MANAGEMENT SYSTEM
+# Exp - 5 STUDENT REGISTRATION SYSTEM
 
 # AIM:
-To develop the Hospital management System using Star UML tool.
+To develop the Student Registration System using Star UML tool.
 
 # SRS (Procedure):
 **STEP 1:**
@@ -69,5 +69,5 @@ It must provide secure access for students, administrators, and staff while prot
 
 ## RESULT:
 
-Thus the Hospital management system project was executed and the output was verified.
+Thus the Student Registration system project was executed and the output was verified.
 
